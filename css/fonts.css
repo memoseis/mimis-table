@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'circular';
+  font-weight: 400;
+  src: url('../fonts/circular-book.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/circular-book.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'circular';
+  font-weight: 500;
+  src:  url('../fonts/circular-medium.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../fonts/circular-medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'archer';
+  font-weight: 500;
+  src:  url('../fonts/archer-semibold.oft') format('otf'), /* Pretty Modern Browsers */
+}
